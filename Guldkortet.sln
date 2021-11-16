@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guldkortet", "Guldkortet\Guldkortet.csproj", "{419F8D04-FF09-44C6-B767-7AA96649387D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419F8D04-FF09-44C6-B767-7AA96649387D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419F8D04-FF09-44C6-B767-7AA96649387D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419F8D04-FF09-44C6-B767-7AA96649387D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419F8D04-FF09-44C6-B767-7AA96649387D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8107442E-A47D-4B2F-AB06-3A06310DFEF0}
+	EndGlobalSection
+EndGlobal
